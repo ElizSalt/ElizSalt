@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-You can find my projects' code portion here💻
+Welcome to my profile!
+🛠️I am a Mechatronics Engineering student, interested in robotics and algorithms.
+⚙️You can find my projects' code portion here💻
 
 Follow me for more!
 
