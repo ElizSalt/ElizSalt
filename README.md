@@ -1,4 +1,6 @@
 ## Hi there 👋
+You can find my projects' code portion here💻
+Follow me for more!
 
 <!--
 **ElizSalt/ElizSalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
