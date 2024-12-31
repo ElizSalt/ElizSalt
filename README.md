@@ -1,5 +1,7 @@
 ## Hi there 👋
+
 You can find my projects' code portion here💻
+
 Follow me for more!
 
 <!--
